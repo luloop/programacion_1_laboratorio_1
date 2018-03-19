@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521488912 source:c:\users\usuario\desktop\utn\1er cuatrimestre\programacion_1_laboratorio_1-master\clase_01\clase_1_tarea\19032018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<conio.h>
+
