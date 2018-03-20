@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521550460 source:c:\test\rizzi\clase2\20032018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<math.h>
+
