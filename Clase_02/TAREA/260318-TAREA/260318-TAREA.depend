@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521933503 source:/Users/luloop/Desktop/PROGRAMACION UTN/programacion_1_laboratorio_1-master/Clase_02/TAREA/260318-TAREA/main.c
+	<stdio.h>
+	<stdlib.h>
+
